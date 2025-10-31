@@ -1,0 +1,19 @@
+{
+    "api_keys": [
+        "nFnGwPhfgr1CcrPWnFr8JGTZNXYtL5mq",
+        "3MHZBWTg6P1rKJyS8bX73bjpk3XpGygK",
+        "RtyfPs1nz4QsHqtVfLLFYq0YDgkHZzxk"
+    ],
+    "source_folder": "./images",
+    "output_folder": "./compressed_images",
+    "max_compressions_per_key": 500,
+    "max_width": 320,
+    "enable_resize": true,
+    "supported_formats": [
+        ".jpg",
+        ".jpeg",
+        ".png",
+        ".webp"
+    ]
+}
+
